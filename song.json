@@ -1,15 +1,19 @@
 {
   "song": {
-    "name": "",
-    "artist": "",
-    "album": "",
-    "genre": "",
-    "year": 0,
-    "name2": "",
-    "artist2": "",
-    "album2": "",
-    "genre2": "",
-    "year2": 0,
+    "first":{
+      "name": "",
+      "artist": "",
+      "album": "",
+      "genre": "",
+      "year": 0
+    },
+    "second" :{
+      "name2": "",
+      "artist2": "",
+      "album2": "",
+      "genre2": "",
+      "year2": 0
+    },
     "dj": "",
     "charter": "",
     "song_length": 0,
@@ -18,15 +22,19 @@
   },
   "difficulty": {
     "bpm": 0,
-    "deckspeed_beginner": 0,
-    "deckspeed_easy": 0,
-    "deckspeed_medium": 0,
-    "deckspeed_hard": 0,
-    "deckspeed_expert": 0,
-    "track_complexity": 0,
-    "tap_complexity": 0,
-    "cross_complexity": 0,
-    "scratch_complexity": 0
+    "deck_speed":{
+      "deckspeed_beginner": 0,
+      "deckspeed_easy": 0,
+      "deckspeed_medium": 0,
+      "deckspeed_hard": 0,
+      "deckspeed_expert": 0
+    },
+    "complexity":{
+      "track_complexity": 0,
+      "tap_complexity": 0,
+      "cross_complexity": 0,
+      "scratch_complexity": 0
+    }
   },
   "extra": {
     "megamix": {
@@ -36,10 +44,12 @@
       "megamix_highway_offset": 0,
       "megamix_transitions": false
     },
-    "id_name": "",
-    "id_artist": "",
-    "id_name2": "",
-    "id_artist2": "",
+    "id":{
+      "id_name": "",
+      "id_artist": "",
+      "id_name2": "",
+      "id_artist2": ""
+    }
     "env_start_time": 0,
     "battle_music": false,
     "guitar_mix": false,
