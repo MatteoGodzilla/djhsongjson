@@ -43,6 +43,7 @@
     "env_start_time": 0,
     "battle_music": false,
     "guitar_mix": false,
-    "menu_music": false
+    "menu_music": false,
+    "additional_xml":""
   }
 }
