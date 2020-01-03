@@ -8,11 +8,11 @@
       "year": 0
     },
     "second" :{
-      "name2": "",
-      "artist2": "",
-      "album2": "",
-      "genre2": "",
-      "year2": 0
+      "name": "",
+      "artist": "",
+      "album": "",
+      "genre": "",
+      "year": 0
     },
     "dj": "",
     "charter": "",
