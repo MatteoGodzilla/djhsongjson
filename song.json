@@ -54,6 +54,9 @@
     "battle_music": false,
     "guitar_mix": false,
     "menu_music": false,
-    "additional_xml":""
+    "additional_xml":"",
+    "sort_artists":[
+      ""
+    ]
   }
 }
