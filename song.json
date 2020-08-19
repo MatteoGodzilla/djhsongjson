@@ -46,12 +46,16 @@
       "megamix_highway_offset": 0,
       "megamix_transitions": false
     },
-    "id":{
-      "id_name": "",
-      "id_artist": "",
-      "id_name2": "",
-      "id_artist2": ""
-    },
+    "id":[
+      {
+        "id_artist":"",
+        "id_name":""
+      },
+      {
+        "id_artist":"",
+        "id_name":""
+      },
+    ],
     "env_start_time": 0,
     "battle_music": false,
     "guitar_mix": false,
