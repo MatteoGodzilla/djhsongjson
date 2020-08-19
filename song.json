@@ -1,19 +1,21 @@
 {
-  "song": {
-    "first":{
-      "name": "",
-      "artist": "",
-      "album": "",
-      "genre": "",
-      "year": 0
+  "song":{
+    "mix_info":{
+      "title":"",
+      "artist":"",
+      "album":"",
+      "genre":"",
+      "year":0
     },
-    "second" :{
-      "name": "",
-      "artist": "",
-      "album": "",
-      "genre": "",
-      "year": 0
-    },
+    "original":[
+      {
+        "title":"",
+        "artist":"",
+        "album":"",
+        "genre":"",
+        "year":0
+      }
+    ],
     "dj": "",
     "charter": "",
     "song_length": 0,
