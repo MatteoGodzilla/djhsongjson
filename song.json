@@ -55,6 +55,7 @@
     "env_start_time": 0,
     "battle_music": false,
     "guitar_mix": false,
+    "vocal_mix":false,
     "menu_music": false,
     "additional_xml":"",
     "sort_artists":[
